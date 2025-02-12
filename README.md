@@ -1,4 +1,4 @@
-![Alt text](\EKS-rentzone-project.png)
+![Alt text](/EKS-rentzone-project.png)
 
 
 # EKS-Projects
